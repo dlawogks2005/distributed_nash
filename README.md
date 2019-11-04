@@ -1,2 +1,5 @@
 # distributed_nash
-thesis
+
+code for my thesis
+<Distributed free-flow-traffic manamgement system based on Nash equilibrium>
+  
